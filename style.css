@@ -1,0 +1,9 @@
+table, td, th { 
+border: 1px solid black ;
+ }
+ th, td {
+ 	width: 250px
+ }
+ fieldset {
+ 	border: 3px solid blue ;
+ }
